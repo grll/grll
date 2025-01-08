@@ -11,7 +11,7 @@ I use whatever get me there the fastest while keeping things simple and maintain
 
 - **Languages**: Python, Typescript
 - **Frameworks**: transformers, fastAPI, pydantic, nextjs...
-- **Tools**: cursor as IDE, vercel for deploying quick website, docker based infra for the rest
+- **Tools**: cursor as IDE, vercel for deploying quick website, docker based infra...
 
 ## 📫 How to Reach Me
 - **Email**: guillaume.raille@gmail.com
