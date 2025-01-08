@@ -1,6 +1,6 @@
 # Hi there, I'm Guillaume! 👋
 
-I'm a data scientist specialized on NLP topics. My data & AI consulting job and various passioning projects had me explore many other fields: infra, clouds architecture, MLOPS, big data pipelines, machine learning, web development, ...
+I'm a data scientist specialized on NLP topics. My data & AI consulting job and various passioning projects had me explore many other fields: from infra, clouds architecture, MLOPS to big data pipelines, machine learning and web development ...
 
 ## 🔭 Current Projects
 - **[iodmcp](https://github.com/iodmcp)**: iod is an organisation with a few repo behind the [iod.ai](https://iod.ai) website. We facilitate (even more) access to tools and data to LLM via the MCP protocol.
