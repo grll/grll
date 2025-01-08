@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Guillaume! 👋
 
-<!--
-**grll/grll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist focused on NLP topics by training but through my data & AI consulting job and various passions had the opportunity to explore many fields: infra, clouds architecture, MLOPS, big data pipelines, machine learning, web development, ...
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- **[iodmcp](https://github.com/iodmcp)**: iod is an organisation with a few repo behind the [iod.ai](https://iod.ai) website. We facilitate (even more) access to tools and data to LLM via the MCP protocol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+I use whatever get me there the fastest while keeping things simple and maintainable.
+
+- **Languages**: Python, Typescript
+- **Frameworks**: transformers, fastAPI, pydantic, nextjs
+- **Tools**: cursor as IDE, vercel for deploying quick website, docker based infra for the rest
+
+## 📫 How to Reach Me
+- **Email**: guillaume.raille@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/guillaumeraille/]
+
+## ⚡ Fun Facts
+- I am very competitive squash player in the swiss-french part of Switzerland but never managed to beat top 50 (hopefully soon). Follow my adventures on [squash romandie](https://squashromandie.ch/user/view/1801)
+
+## 📈 GitHub Stats
+![grll's GitHub stats](https://github-readme-stats.vercel.app/api?username=grll&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and reach out for colaborations!
