@@ -15,7 +15,7 @@ I use whatever get me there the fastest while keeping things simple and maintain
 
 ## 📫 How to Reach Me
 - **Email**: guillaume.raille@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/guillaumeraille/]
+- **LinkedIn**: https://www.linkedin.com/in/guillaumeraille/
 
 ## ⚡ Fun Facts
 - I am very competitive squash player in the swiss-french part of Switzerland but never managed to beat top 50 (hopefully soon). Follow my adventures on [squash romandie](https://squashromandie.ch/user/view/1801)
