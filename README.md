@@ -10,7 +10,7 @@ I'm a data scientist focused on NLP topics by training but through my data & AI 
 I use whatever get me there the fastest while keeping things simple and maintainable.
 
 - **Languages**: Python, Typescript
-- **Frameworks**: transformers, fastAPI, pydantic, nextjs
+- **Frameworks**: transformers, fastAPI, pydantic, nextjs...
 - **Tools**: cursor as IDE, vercel for deploying quick website, docker based infra for the rest
 
 ## 📫 How to Reach Me
