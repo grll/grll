@@ -4,6 +4,7 @@ I'm a data scientist specialized on NLP topics. My data & AI consulting job and 
 
 ## 🔭 Current Projects
 - **[iodmcp](https://github.com/iodmcp)**: iod is an organisation with a few repo behind the [iod.ai](https://iod.ai) website. We facilitate (even more) access to tools and data to LLM via the MCP protocol.
+- **[substantAI](https://substant.ai)**: substantAI is your AI powered google alerts to keep track of your business relationships.
 
 ## 🛠️ Technologies & Tools
 
