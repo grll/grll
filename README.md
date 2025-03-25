@@ -1,11 +1,11 @@
 # Hi there, I'm Guillaume! 👋
 
-I'm a trained data scientist specialized on NLP topics leveraging the transformer architecture.
+I'm a trained data scientist specialized on NLP leveraging the transformer architecture.
 
 BUT during the past 15 years, I explored several aspects of software engineering:
 * web / fullstack development while building an e-commerce website for a national tea company (among other)
-* big data pipelines for large banks on pyspark / palantir foundry
-* deploying LLM pipelines for a large insurance
+* big data pipelines for risk and compliance department of large banks on pyspark / palantir foundry
+* designing scalable LLM pipelines to answer questions on insurance contracts for a global insurance company.
 
 Always curious to understand and do the work end-to-end incl. deploying on various cloud, setting up CI/CD...
 
