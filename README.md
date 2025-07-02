@@ -12,8 +12,8 @@ Started my career in NLP research developing custom transformer based model. The
 - [2025.06] - OpenAI Viva LeHack Hackathon Finalist: built a [conference guide](https://github.com/grll/vivalehack) helping attendees search for relevant events based on the conference agenda and their linkedin profile. It also used google calendar MCP to automatically add events in your agenda and handle conflicts. #MCP #OpenAIAgentsSDK
 - [2024.07] - Mistral Finetuning Hackathon Winner: built a [multi-agent system](https://github.com/grll/mistral-finetuning-hackathon) with fine-tuned models grounding swiss legal question on top of swiss law. #AutoGen #Mistral
 - [2024.07] - Kaggle Competition Solo Bronze medal: [fine-tuned and quantized various models](https://github.com/grll/lmsys-chatbot-arena-public/blob/main/36_unsloth_gemma2_9b_2048_1epochs_1e-4.ipynb) including gemma 2 9B on LMSYS Chatbot Arena human preference prediction task.
-- [2022] - Darts: User-friendly modern machine learning for time series (JMLR) - developed the backtesting approach of darts a time series forecasting framework.
-- [2020] - Fast cross-domain data augmentation through neural sentence editing - implemented from scratch a novel transformer model combining VAE to perform cross-domain data augmentation via semantic preserving edits. 
+- [2022] - [Darts: User-friendly modern machine learning for time series (JMLR)](https://www.jmlr.org/papers/volume23/21-1177/21-1177.pdf) - developed the backtesting approach of darts a time series forecasting framework.
+- [2020] - [Fast cross-domain data augmentation through neural sentence editing](https://arxiv.org/pdf/2003.10254) - implemented from scratch a novel transformer model combining VAE to perform cross-domain data augmentation via semantic preserving edits. 
 
 ## How to Reach Me
 - **Email**: guillaume.raille@gmail.com
